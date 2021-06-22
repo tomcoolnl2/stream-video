@@ -1,0 +1,16 @@
+[
+  {
+    "name": "player-name",
+    "path": "/player/:name?",
+    "component": "/Users/tomcoolnl/dev/streaming-app/frontend/pages/player/_name.vue",
+    "chunkName": "pages/player/_name",
+    "_name": "_c72165da"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/tomcoolnl/dev/streaming-app/frontend/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3364d98b"
+  }
+]
